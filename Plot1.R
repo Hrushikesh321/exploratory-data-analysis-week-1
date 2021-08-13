@@ -1,5 +1,5 @@
 ##Get Dataset Load
-##Plot 1 code 
+##Code for plot 1
 
 data <- read.table("./data/household_power_consumption.txt", header = T,sep = ";", na.strings = "?")
 
